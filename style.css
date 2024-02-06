@@ -1,0 +1,55 @@
+.a{
+    background-color: rgb(0, 39, 139);
+    background-image: url(ipl4.png) ;
+}
+span{
+    color:aliceblue;
+   
+}
+.b{
+    color: #F4EEE0;
+}
+.e{
+   background-color:#F4EEE0;
+}
+.gj{
+    background-color: #1B2133;
+}
+.rcb{
+    background-color: #E63329 ;
+}
+.csk{
+    background-color:#F9CD05;
+}
+.rr{
+    background-color:#EC2A90   ;
+}
+h4{
+    color: white;
+}
+.sg:hover{
+    
+    zoom: 3;
+    
+}
+.button {
+    transition-duration: 0.4s;
+    color: #F4EEE0;
+  }
+  
+  .button:hover {
+    background-color: beige; 
+    color: black;
+  }
+  .s{
+    color: darkslateblue;
+  }
+  .mi{
+    background-color: #87cefa;
+  }
+  .lsg{
+background-color: #0B2265;
+  }
+a{
+    text-decoration: none;
+}
